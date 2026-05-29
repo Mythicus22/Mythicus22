@@ -68,75 +68,91 @@ Airbnb-inspired hotel booking platform with authentication, bookings and respons
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7DCFFF&height=60&section=header&text=Tech%20Stack&fontSize=30&fontColor=ffffff"/>
 
-## 🧠 Programming Languages
+### 🧠 Programming Languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
 
-## 🌐 Full Stack Development
+---
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+### 🌐 Full Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,threejs" />
+</p>
+
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge\&logo=socket.io)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socket.io)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
 
-## 🗄️ Databases & ORMs
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=prisma)
+### 🗄️ Databases & Backend Infrastructure
 
-## 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma" />
+</p>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-## ⛓️ Blockchain & Web3
+---
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity)
+### ⛓️ Blockchain & Web3
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" />
+</p>
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge\&logo=web3.js)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge\&logo=metamask)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
 ![Aptos](https://img.shields.io/badge/Aptos-000000?style=for-the-badge)
 
-## 📡 IoT & Embedded Systems
+---
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
+### 📡 IoT, Embedded Systems & Robotics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge\&logo=raspberrypi)
 
-## ⚙️ DevOps & Tools
+---
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+### ⚙️ DevOps & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,postman" />
+</p>
+
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium)
 
-## 🎨 Design & Visualization
+---
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+### 🎨 Design & Productivity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=three.js)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion)
 
 ---
 
