@@ -13,7 +13,7 @@ Full Stack Developer • AI/ML Enthusiast • Web3 Developer • Embedded System
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Web3+Developer;Embedded+Systems+Explorer;Future+Robotics+Engineer;Building+Intelligent+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Web3+Developer;Embedded+Systems+Developer;Robotics+Enthusiast;Building+Intelligent+Software"/>
 </p>
 
 <p align="center">
