@@ -26,36 +26,18 @@ Full Stack Developer • AI/ML Enthusiast • Web3 Developer • Embedded System
 
 ---
 
-```html
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7AA2F7&height=45&section=header&text=About%20Me&fontSize=24&fontColor=ffffff"/>
 
-<table>
-<tr>
-<td width="60%">
+* 🎓 Computer Science Engineering Student at MSIT
+* 🌐 Passionate about Full Stack Development
+* 🤖 Exploring AI, Machine Learning & Robotics
+* ⛓️ Building Web3 & Blockchain Applications
+* 📡 Interested in IoT & Embedded Systems
+* 🚀 Love turning ideas into real-world products
 
-🎓 Computer Science Engineering Student at MSIT
-
-🌐 Passionate about Full Stack Development
-
-🤖 Exploring AI, Machine Learning & Robotics
-
-⛓️ Building Web3 & Blockchain Applications
-
-📡 Interested in IoT & Embedded Systems
-
-🚀 Love turning ideas into real-world products
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="280"/>
-
-</td>
-</tr>
-</table>
-```
-
+<p align="center">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600">
+</p>
 ---
 
 ## 🌱 Currently Learning
