@@ -1,18 +1,129 @@
-# 💫 About Me:
-🔭 I'm currently working on Full Stack Web Development and AI-powered applications<br><br>👯 I'm looking to collaborate on Open Source, Full Stack, AI/ML, and Robotics projects<br><br>🤝 I'm looking for help with Robotics, ROS, Computer Vision, and Embedded Systems<br><br>🌱 I'm currently learning Machine Learning, Deep Learning, Aptos Move, and Robotics Fundamentals<br><br>💬 Ask me about Full Stack Development, Node.js, React, MongoDB, Python, AI/ML, IoT, and Web3<br><br>⚡ Fun fact: I enjoy building things end to end from software to hardware — from web apps to microcontroller-based projects
+# Hi there 👋, I'm Devansh Parti
 
+### Full Stack Developer • AI/ML Enthusiast • Web3 Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_devv05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-parti-05aa3832a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshparti@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mythicus22&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mythicus22&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mythicus22&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> Building intelligent software today, exploring robotics for tomorrow.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mythicus22&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a Computer Science Engineering student at MSIT with a strong interest in Full Stack Development, Artificial Intelligence, and Robotics.
+
+I enjoy building end-to-end products—from modern web applications and scalable backends to AI-powered tools and embedded systems projects.
+
+Currently focused on AI-powered applications while exploring the path toward Robotics, Computer Vision, and Autonomous Systems.
+
+---
+
+## 🎯 Current Focus
+
+* 🔹 Building Full Stack Applications
+* 🔹 Learning Machine Learning & Deep Learning
+* 🔹 Exploring Computer Vision
+* 🔹 Preparing for Robotics & ROS2
+* 🔹 Contributing to Open Source Projects
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Solidity](https://skillicons.dev/icons?i=solidity)
+
+### Full Stack Development
+
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+
+### AI / Machine Learning
+
+![Python](https://skillicons.dev/icons?i=python)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+
+### IoT & Embedded Systems
+
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 AI Resume Analyzer
+
+* Resume parsing and analysis
+* AI-powered feedback
+* Skill extraction and scoring
+
+### ⛓️ Web3 / Blockchain Projects
+
+* Smart contract development
+* Aptos Move development
+* Wallet integration and decentralized applications
+
+### 🌐 Full Stack Applications
+
+* Authentication systems
+* Real-time communication
+* Modern responsive UI
+* REST APIs and scalable backends
+
+### 📡 IoT Projects
+
+* Arduino & ESP32 based solutions
+* Sensor integration
+* Embedded systems experimentation
+
+---
+
+## 📈 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=Mythicus22\&theme=tokyonight\&show_icons=true)
+
+![](https://streak-stats.demolab.com?user=Mythicus22\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mythicus22\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📊 Contribution Graph
+
+[![Devansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mythicus22\&theme=tokyo-night)](https://github.com/Mythicus22)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/devansh-parti-05aa3832a)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/_devv05)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:devanshparti@gmail.com)
+
+---
+
+### 💡 Fun Fact
+
+I enjoy building things end-to-end—from software and AI applications to embedded and IoT-based systems. My long-term goal is to combine AI, software engineering, and robotics to create intelligent real-world solutions.
