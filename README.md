@@ -35,9 +35,6 @@ Full Stack Developer • AI/ML Enthusiast • Web3 Developer • Embedded System
 * 📡 Interested in IoT & Embedded Systems
 * 🚀 Love turning ideas into real-world products
 
-<p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600">
-</p>
 ---
 
 ## 🌱 Currently Learning
